@@ -2,6 +2,7 @@
 <h3>Available programming languages</h3>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 <img alt="php" src="https://img.shields.io/badge/php-3670A0?style=flat-square&logo=php&logoColor=ffdd54" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-3670A0?style=flat-square&logo=HTML&logoColor=ffdd54" />
 <!--
 **zearakun/zearakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
