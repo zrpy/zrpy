@@ -1,5 +1,5 @@
 # Zrpy
-Illusionや連合政府という雑談サーバーでスタッフ、開発者をしています<br>
+Illusionや仮想政府という雑談サーバーでスタッフ、開発者をしています<br>
 PythonやPHPをメインに使ってます<br>
 サイト開発、アプリ開発をしています<br>
 スクレイピングが得意でPythonやJavascript、typescriptでスクレイピングをしています
