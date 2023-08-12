@@ -1,10 +1,16 @@
 # Zrpy
-Illusionや仮想政府という雑談サーバーでスタッフ、開発者をしています<br>
-PythonやPHPをメインに使ってます<br>
-サイト開発、アプリ開発をしています<br>
-スクレイピングが得意でPythonやJavascript、typescriptでスクレイピングをしています
-# 作ったことあるもの
-(disboard,dissoku,discordservers,stake)scraping<br>
-2ch風掲示板disnote<br>
-ウェブメモ帳notememo<br>
-他にも
+Hcapsolver、Discordのツールなど作ってます<br>
+コードは汚いです、性格なども悪いと思います<br>
+凄いプログラマーなどからは嫌われています<br>
+Pythonを基本的に使っています
+# 尊敬しているプログラマー
+Paicha(Python,core)<br>
+ろりねこ(瑠奈)<br>
+なえこーど<br>
+β教祖<br>
+activetk<br>
+raibonn<br>
+暇人教祖(Rayn)<br>
+あるふぁ<br>
+ここあ<br>
+はるさめ
