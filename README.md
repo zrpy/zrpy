@@ -10,7 +10,6 @@ Paicha(Python,core)<br>
 β教祖<br>
 activetk<br>
 raibonn<br>
-暇人教祖(Rayn)<br>
 あるふぁ<br>
 ここあ<br>
 はるさめ<br>
