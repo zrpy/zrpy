@@ -19,4 +19,4 @@ raibonn<br>
 ここあ<br>
 はるさめ<br>
 すずねーう<br>
-ware225(krsw225)
+ware225
