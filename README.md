@@ -1,4 +1,5 @@
 # Zrpy
+<img src="kawaii_logo.png"></img>
 ![:name](https://count.getloli.com/get/@:zrpy)
 Hcapsolver、Discordのツールなど作ってます<br>
 コードは汚いです、性格なども悪いと思います<br>
