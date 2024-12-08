@@ -7,8 +7,6 @@ Hcapsolver、Discordのツールなど作ってます<br>
 Pythonを基本的に使っています
 # 使う言語
 - [x] Python
-- [x] Little go
-- [x] Javascript
 # 尊敬しているプログラマー
 Paicha(Python,core)<br>
 ろりねこ(瑠奈)<br>
