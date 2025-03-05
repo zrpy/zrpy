@@ -1,6 +1,6 @@
 # Zrpy
 <img src="kawaii_logo.png"></img>
-![:name](https://count.getloli.com/get/@:zrpy)
+![:name](https://count.getloli.com/get/@:zrpy)<br>
 最近はsnsなど作っています<br>
 tls-clientでcfをsolveできることを広めました
 # 使う言語
